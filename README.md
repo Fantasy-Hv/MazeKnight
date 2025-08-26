@@ -1,1 +1,1 @@
-a rouglike console game .
+a rougelike console game .
